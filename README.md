@@ -57,7 +57,7 @@ I’m an engineering student passionate about building user-centric, scalable pr
 
 <!-- ===== WHAT DRIVES ME (Grid Layout) ===== -->
 
-🧠 What Drives Me
+<h2 align="center">🧠 What Drives Me</h2>
 
 <table align="center">
 <tr>
@@ -84,39 +84,76 @@ I’m an engineering student passionate about building user-centric, scalable pr
 
 <!-- ===== ACHIEVEMENTS & LEADERSHIP ===== -->
 
-🌟 Achievements & Leadership
+<h2 align="center">🌟 Achievements & Leadership</h2>
 
-Achievement
+<div align="center">
+<table>
+<tr>
+<td width="10%" align="center">🏆</td>
+<td>
+<b>YUKTI Innovation Challenge 2025</b>
 
-Details
 
-🏆 YUKTI Innovation Challenge 2025
+
 
 Led and strategized a cross-functional team to build HaazirHu, a startup solution focused on rural development (Final result TBA by MoE)
+</td>
+</tr>
+<tr>
+<td width="10%" align="center">🎯</td>
+<td>
+<b>AICTE Productization Fellowship (APF) 2025</b>
 
-🎯 AICTE Productization Fellowship (APF) 2025
+
+
 
 Spearheaded product ideation and development of HaazirHu, with a focus on product-market fit and execution (Final result TBA by MoE)
+</td>
+</tr>
+<tr>
+<td width="10%" align="center">🌍</td>
+<td>
+<b>Top 1% Global Finalist</b>
 
-🌍 Top 1% Global Finalist
+
+
 
 UI Design Hackathon (Outlier.ai)
+</td>
+</tr>
+</table>
+</div>
 
 <!-- ===== LEADERSHIP & EXPERIENCE ===== -->
 
-🧑‍💼 Leadership & Experience
+<h2 align="center">🧑‍💼 Leadership & Experience</h2>
 
-> Google Student Ambassador
+<div align="center">
+<table>
+<tr>
+<td>
+<h3>🔹 Google Student Ambassador</h3>
+• Led “Future of Tech” sessions on Responsible AI & LLMs for 100+ non-technical students
 
-Led “Future of Tech” sessions on Responsible AI & LLMs for 100+ non-technical students
 
-Built feedback loops between students, industry experts, and Google program managers
 
-> Founder & Student Representative – DEBUG (Coding Club @ GKCIET)
 
-Grew the community from 0 → 190+ active members in 3 months
+• Built feedback loops between students, industry experts, and Google program managers
+</td>
+</tr>
+<tr>
+<td>
+<h3>🔹 Founder & Student Representative – DEBUG (Coding Club @ GKCIET)</h3>
+• Grew the community from 0 → 190+ active members in 3 months
 
-Acted as a liaison between students and administration for technical initiatives
+
+
+
+• Acted as a liaison between students and administration for technical initiatives
+</td>
+</tr>
+</table>
+</div>
 
 <!-- ===== TECH STACK ===== -->
 
@@ -147,13 +184,13 @@ Acted as a liaison between students and administration for technical initiatives
 
 <!-- ===== CURRENTLY LEARNING ===== -->
 
-🚀 Currently Learning
+<h2 align="center">🚀 Currently Learning</h2>
 
-Data Engineering pipelines & ETL
-
-Cloud Data Platforms (GCP / AWS)
-
-Product Metrics (OKRs, KPIs, North Star)
+<div align="center">
+<code>🏗️ Data Engineering pipelines & ETL</code> &nbsp;|&nbsp;
+<code>☁️ Cloud Data Platforms (GCP / AWS)</code> &nbsp;|&nbsp;
+<code>📈 Product Metrics (OKRs, KPIs, North Star)</code>
+</div>
 
 <!-- ===== INTERESTS ===== -->
 
@@ -161,9 +198,6 @@ Product Metrics (OKRs, KPIs, North Star)
 <h2>🧩 Interests</h2>
 <code>📈 Strategy</code> | <code>📊 Analytics</code> | <code>🧠 Behavioral Economics</code> | <code>🛍 Consumer Psychology</code> | <code>🚀 Startups</code>
 </div>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Build.%20Ship.%20Learn.%20Repeat.&fontAlign=50&fontAlignY=50&color=gradient" />
 </p>
