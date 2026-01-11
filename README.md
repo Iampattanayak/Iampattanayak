@@ -26,9 +26,7 @@
 
 <!-- ===== ABOUT ME ===== -->
 
-🧠 About Me
-
-I’m an engineering student passionate about building user-centric, scalable products powered by data and technology. I enjoy working at the intersection of strategy, execution, and analytics—turning ideas into real-world solutions through structured product thinking and strong collaboration.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **I’m an engineering student passionate about building user-centric, scalable products powered by data and technology. I enjoy working at the intersection of strategy, execution, and analytics—turning ideas into real-world solutions through structured product thinking and strong collaboration.**
 
 <!-- ===== HOW I THINK (Block/3D Style Layout) ===== -->
 
@@ -198,7 +196,6 @@ UI Design Hackathon (Outlier.ai)
 <h2>🧩 Interests</h2>
 <code>📈 Strategy</code> | <code>📊 Analytics</code> | <code>🧠 Behavioral Economics</code> | <code>🛍 Consumer Psychology</code> | <code>🚀 Startups</code>
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Build.%20Ship.%20Learn.%20Repeat.&fontAlign=50&fontAlignY=50&color=gradient" />
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
+</div>
