@@ -66,7 +66,7 @@ I build solutions where **strategy, technology, and users intersect**.
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/akashpattanayak">
+  <a href="https://linkedin.com/in/akashpattanayak2006">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:akashpattanayak89@gmail.com">
