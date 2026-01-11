@@ -1,18 +1,15 @@
-<!-- HEADER & HERO SECTION -->
+<!-- 🚀 HERO SECTION: 3D Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=320&section=header&text=Akash%20Pattanayak&fontSize=80&fontAlignY=35&desc=Product%20Manager%20%7C%20Data%20Engineer%20%7C%20Community%20Leader&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" alt="Header Background"/>
-  
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,24,40,60,80&height=250&section=header&text=Akash%20Pattanayak&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Product%20Manager%20%7C%20Data%20Engineer%20%7C%20Builder&descAlignY=65&descAlign=50&animation=fadeIn" width="100%" alt="Header"/>
 
-  <!-- DYNAMIC TYPING TEXT -->
+  <!-- ⌨️ TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&duration=3000&pause=1000&color=232D3F&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Data+Products;Bridging+Strategy+%26+Engineering;Building+Communities+for+Impact;Solving+Problems+First%2C+Coding+Second" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4EC9B0&center=true&vCenter=true&width=800&lines=Building+Scalable+Data+Products;Translating+Strategy+into+Execution;Leading+Communities+%26+Innovation;HaazirHu+Founder+%26+Strategist" alt="Typing SVG" />
   </a>
 </div>
 
+<!-- 🔗 CONNECT BUTTONS (Modern "For-the-badge" Style) -->
 <div align="center">
-  
-  <!-- SOCIAL PILLS (High contrast) -->
   <a href="https://linkedin.com/in/akashpattanayak">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
@@ -20,74 +17,71 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
   <a href="https://github.com/Iampattanayak">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
-
 </div>
 
 <br>
 
-<!-- INTRO & PHILOSOPHY SECTION -->
-<h2 align="center">⚡ Engineering Strategy × Product Execution</h2>
+<!-- 🧠 PHILOSOPHY SECTION -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
+  <b>ENGINEERING × STRATEGY</b>
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  <b>I don't just write code; I build product ecosystems.</b><br>
-  I operate at the intersection of <i>user needs</i>, <i>business goals</i>, and <i>technical feasibility</i>. My goal is to turn raw data into actionable insights and abstract ideas into deployed solutions.
+"I build at the intersection of <b>User Needs</b> and <b>Data Systems</b>. My focus is not just on writing code, but on creating value-driven product ecosystems."
 </p>
 
+---
+
+<!-- 🏆 3D TROPHIES (High Reliability Version) -->
+<!-- These generate 3D isometric trophies based on your commits/stars. -->
+<h2 align="center">🏆 The Trophy Cabinet</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Iampattanayak&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
+  </a>
+</div>
+
+<br>
+
+<!-- 📊 DATA DASHBOARD (The "Command Center" Replacement) -->
+<!-- Using "Nightowl" theme for high contrast visibility -->
+<h2 align="center">📊 Engineering Metrics</h2>
+
+<div align="center">
+  <!-- Left: General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Iampattanayak&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="stats" />
+  <!-- Right: Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iampattanayak&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook" height="180" alt="languages" />
+</div>
+<div align="center">
+  <!-- Bottom: Streak (Gamification) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iampattanayak&theme=nightowl&hide_border=true&background=0D1117" alt="streak" />
+</div>
+
+<br>
+
+<!-- 🛠️ TECH STACK (Animated Icons) -->
+<h2 align="center">🛠️ Tech & Tools</h2>
+
 <div align="center">
   <table>
-    <tr>
-      <td align="center" width="33%"><b>🧠 Product Thinking</b></td>
-      <td align="center" width="33%"><b>🚀 Bias for Action</b></td>
-      <td align="center" width="33%"><b>📊 Data Driven</b></td>
+    <tr align="center">
+      <td><b>Core Engineering</b></td>
+      <td><b>Data & Cloud</b></td>
+      <td><b>Product & Design</b></td>
     </tr>
-    <tr>
-      <td align="center">User-Centric PRDs & Roadmaps</td>
-      <td align="center">Rapid Prototyping & Agile</td>
-      <td align="center">ETL Pipelines & KPIs</td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- 3D ISOMETRIC STATISTICS (The "Wow" Factor) -->
-<h2 align="center">📊 The Command Center</h2>
-<div align="center">
-  <!-- 3D Calendar -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iampattanayak&theme=algolia" alt="3D stats" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iampattanayak&show_icons=true&locale=en&theme=algolia&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iampattanayak&layout=compact&theme=algolia&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<!-- TECH STACK (Using Animated/High-Res Icons) -->
-<h2 align="center">🛠️ The Technical Arsenal</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120"><b>Languages</b></td>
+    <tr align="center">
       <td>
         <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>Data & Cloud</b></td>
       <td>
         <img src="https://skillicons.dev/icons?i=gcp,docker,mysql,postgres,pandas" />
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>Dev & Product</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,git,figma,wordpress" />
+        <img src="https://skillicons.dev/icons?i=react,git,figma,notion,jira" />
       </td>
     </tr>
   </table>
@@ -95,60 +89,69 @@
 
 <br>
 
-<!-- FEATURED PROJECT SPOTLIGHT -->
-<h2>🏆 Featured Impact: HaazirHu</h2>
-<blockquote>
-  <b>🥇 YUKTI Innovation Challenge 2025 | 🎯 AICTE Productization Fellowship</b>
-</blockquote>
+<!-- 🚀 FEATURED PROJECT: HaazirHu -->
+<h2 align="center">🚀 Project Spotlight: HaazirHu</h2>
 
+<div align="center">
 <table>
   <tr>
-    <td width="70%">
-      <b>The Problem:</b> Rural development initiatives often lack transparency and real-time tracking.<br><br>
-      <b>The Solution:</b> A startup solution focused on bridging the gap between administration and rural execution.<br><br>
-      <b>My Role:</b> Product Strategy, Team Leadership, and Cross-functional execution.<br>
-      <b>Tech Stack:</b> Python, Cloud Data Systems, Rapid Prototyping.
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3063/3063822.png" width="100" />
+    </td>
+    <td width="500">
+      <h3>Rural Development & Governance Startup</h3>
+      <p><b>🏆 Winner: YUKTI Innovation Challenge 2025</b></p>
+      <p>A data-driven solution focused on rural development, bridging the gap between strategy and execution.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Product_Lead-orange" />
+        <img src="https://img.shields.io/badge/Focus-Rural_Impact-green" />
+        <img src="https://img.shields.io/badge/Status-Fellowship-blue" />
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<!-- 💼 EXPERIENCE (Clean List) -->
+<h2 align="center">⚡ Leadership Highlights</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍💼 Google Student Ambassador</h3>
+      <ul>
+        <li>Led <b>"Future of Tech"</b> sessions on Responsible AI.</li>
+        <li>Bridged gap between 100+ students and Industry PMs.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Founder @ DEBUG Club</h3>
+      <ul>
+        <li>Scaled community <b>0 → 190+ members</b> in 3 months.</li>
+        <li>Technical Liaison for college administration.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🤖 AI Code Evaluator @ Outlier AI</h3>
+      <ul>
+        <li>Expert-level feedback for LLM code generation (RLHF).</li>
+        <li>Specialized in Python optimization and debugging.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- EXPANDABLE LEADERSHIP SECTION -->
-<h2>🧑‍💼 Leadership & Community</h2>
-
-<details>
-<summary><b>Google Student Ambassador (Click to Expand)</b></summary>
-<br>
-<ul>
-    <li>🚀 Led "Future of Tech" sessions on <b>Responsible AI & LLMs</b> for 100+ students.</li>
-    <li>🤝 Built feedback loops between students, industry experts, and Google PMs.</li>
-</ul>
-</details>
-
-<details>
-<summary><b>Founder @ DEBUG Coding Club</b></summary>
-<br>
-<ul>
-    <li>📈 Scaled community from <b>0 to 190+ members</b> in just 3 months.</li>
-    <li>🗣️ Acted as primary liaison between student body and administration.</li>
-</ul>
-</details>
-
-<details>
-<summary><b>AI Code Evaluator @ Outlier AI</b></summary>
-<br>
-<ul>
-    <li>🤖 Improved LLM code quality through expert-level feedback and optimization.</li>
-    <li>🐛 Focused on debugging and refining RLHF models.</li>
-</ul>
-</details>
-
-<br>
-
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,40,60,80&height=100&section=footer" width="100%"/>
+  <br>
+  <i>Always open to discussing Product, Data, and Strategy.</i>
 </div>
   <a href="https://linkedin.com/in/akashpattanayak"><b>Connect on LinkedIn</b></a>
 </div>
