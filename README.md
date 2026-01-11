@@ -27,6 +27,7 @@ I’m an engineering student passionate about **building user-centric, scalable 
 🗂 Project Management – Agile execution, cross-functional collaboration, delivery ownership
 📊 Data Engineering – Data pipelines, ETL, analytics foundations, cloud data systems
 🌱 Startups & Innovation – Building for impact, especially in rural & social domains
+
 ---
 
 ## 🌟 Achievements & Leadership
