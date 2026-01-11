@@ -1,179 +1,126 @@
-<!-- ================= HERO ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Akash%20Pattanayak&fontAlignY=38&desc=Product%20%7C%20Project%20%7C%20Data%20Engineering&descAlignY=60" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Problem+→+User+→+Value;Bias+toward+Execution+%26+Speed;Product+Thinking+%2B+Data+Thinking" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=300&section=header&text=Hi,%20I'm%20Akash%20Pattanayak&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Product%20Manager%20|%20Data%20Engineering%20Learner%20|%20Builder&descAlignY=51&descAlign=62" alt="Header" width="100%"/>
 
----
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=🚀+Turning+Ideas+into+Scalable+Products;📊+Analyzing+Data+for+Strategic+Impact;🤝+Building+Communities+%26+Leading+Teams;🛠️+Engineering+Solutions+for+Rural+India" alt="Typing SVG" />
+  </a>
 
-<!-- ================= ABOUT ME CARD ================= -->
-<table align="center">
-<tr>
-<td align="center" width="900">
-  
-### 👋 Hi, I’m Akash Pattanayak  
-
-🚀 **Aspiring Product & Project Manager** | 📊 **Data Engineering Learner** | 💻 Engineer & Community Builder  
-
-I’m an engineering student passionate about building **user-centric, scalable products** powered by **data and technology**. I enjoy working at the intersection of **strategy, execution, and analytics**—turning ideas into real-world solutions through structured product thinking and strong collaboration.
-
-</td>
-</tr>
-</table>
+  <p>
+    <a href="https://linkedin.com/in/akashpattanayak">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:akashpattanayak89@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/Iampattanayak">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
-
-<!-- ================= HOW I THINK ================= -->
-<table align="center">
-<tr>
-<td width="900">
 
 ### ⚡ How I Think
+> *"Start with problem → user → value, not features."*
 
-- 🧠 Start with **problem → user → value**, not features  
-- 🚀 Strong bias toward **execution, ownership, and speed**  
-- 🔁 Learn continuously from users, **iterate fast**, and **measure real impact**  
-- 📊 Balance **product intuition with data-driven decision making**
+I am an engineering student standing at the intersection of **Strategy, Execution, and Analytics**. I don't just write code; I build bridges between technical feasibility and user needs.
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Iampattanayak&theme=flat&no-frame=false&no-bg=true&margin-w=4" />
+  </a>
+</div>
 
 ---
-
-<!-- ================= WHAT DRIVES ME ================= -->
-<table align="center">
-<tr>
-<td width="900">
 
 ### 🧠 What Drives Me
-
-- 📦 **Product Management** – Problem discovery, PRDs, MVPs, user research, roadmap planning  
-- 🗂 **Project Management** – Agile execution, cross-functional collaboration, delivery ownership  
-- 📊 **Data Engineering** – Data pipelines, ETL, analytics foundations, cloud data systems  
-- 🌱 **Startups & Innovation** – Building for impact, especially in rural & social domains  
-
-</td>
-</tr>
-</table>
+| 📦 Product Management | 🗂 Project Management | 📊 Data Engineering |
+| :---: | :---: | :---: |
+| Problem Discovery, PRDs, MVPs, Roadmap Planning | Agile Execution, Cross-functional Collaboration | ETL Pipelines, Cloud Data Systems, Analytics |
 
 ---
 
-<!-- ================= ACHIEVEMENTS ================= -->
-<table align="center">
-<tr>
-<td width="900">
+### 🌟 Highlights & Impact
+<details>
+<summary><b>🏆 YUKTI Innovation Challenge 2025 (Click to expand)</b></summary>
+<br>
+<ul>
+ <li><b>Role:</b> Team Lead & Strategist</li>
+ <li><b>Product:</b> <i>HaazirHu</i> – A startup solution for rural development.</li>
+ <li><b>Impact:</b> Led a cross-functional team to build a solution focusing on real-world utility and execution.</li>
+</ul>
+</details>
 
-### 🌟 Highlights & Achievements
+<details>
+<summary><b>🎯 AICTE Productization Fellowship 2025</b></summary>
+<br>
+<ul>
+ <li>Spearheaded product ideation with a focus on <b>Product-Market Fit (PMF)</b>.</li>
+ <li>Managed the lifecycle from concept to prototype execution.</li>
+</ul>
+</details>
 
-🏆 **YUKTI Innovation Challenge 2025** – Led and strategized a cross-functional team to build **HaazirHu**, a startup solution focused on rural development  
-🎯 **AICTE Productization Fellowship (APF) 2025** – Spearheaded product ideation and development of **HaazirHu**, with a focus on product-market fit and execution  
-🌍 **Top 1% Global Finalist** – UI Design Hackathon (Outlier.ai)  
+<details>
+<summary><b>🧑‍💼 Google Student Ambassador</b></summary>
+<br>
+<ul>
+ <li>Led "Future of Tech" sessions on <b>Responsible AI & LLMs</b> for 100+ students.</li>
+ <li>Built feedback loops between students, industry experts, and Google PMs.</li>
+</ul>
+</details>
 
-</td>
-</tr>
-</table>
-
----
-
-<!-- ================= LEADERSHIP ================= -->
-<table align="center">
-<tr>
-<td width="900">
-
-### 🧑‍💼 Leadership & Experience
-
-**Google Student Ambassador**  
-- Led “Future of Tech” sessions on Responsible AI & LLMs for 100+ non-technical students  
-- Built feedback loops between students, industry experts, and Google program managers  
-
-**Founder & Student Representative – DEBUG (Coding Club @ GKCIET)**  
-- Grew the community from **0 → 190+ active members** in 3 months  
-- Acted as a liaison between students and administration for technical initiatives  
-
-**AI Code Evaluator & Trainer – Outlier AI (Remote)**  
-- Improved LLM code quality through expert-level feedback, debugging, and optimization  
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ================= SKILLS (3D ICONS) ================= -->
-### 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,docker,gcp,mysql&theme=dark" />
-</p>
+<details>
+<summary><b>🚀 Founder @ DEBUG (Coding Club)</b></summary>
+<br>
+<ul>
+ <li>Grew community from <b>0 → 190+ active members</b> in 3 months.</li>
+ <li>Liaison between student body and administration for technical initiatives.</li>
+</ul>
+</details>
 
 ---
 
-<!-- ================= LEARNING ================= -->
-<table align="center">
-<tr>
-<td width="900">
+### 🛠️ The Toolkit
+<div align="center">
 
-### 🌱 Currently Learning
-- End-to-end **Data Engineering workflows**  
-- **Cloud data platforms** (GCP / AWS basics)  
-- **Product metrics** (KPIs, OKRs, North Star Metrics)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Product_Management-FF5722?style=for-the-badge&logo=producthunt&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-</td>
-</tr>
-</table>
-
----
-
-<!-- ================= INTERESTS ================= -->
-<table align="center">
-<tr>
-<td width="900">
-
-### 🧩 Interests
-📈 Strategy & Operations | 📊 Analytics | 🧠 Behavioral Economics | 🛍 Consumer Psychology | 🚀 Entrepreneurship  
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- ================= STATS ================= -->
 ### 📊 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iampattanayak&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iampattanayak&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iampattanayak&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<!-- ================= CONNECT ================= -->
-### 📫 Let’s Connect
-<p align="center">
-  <a href="https://linkedin.com/in/akashpattanayak">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:akashpattanayak89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<div align="center">
+  <a href="https://github.com/Iampattanayak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iampattanayak&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F1F1F1" alt="Akash's Stats" height="160" />
   </a>
   <a href="https://github.com/Iampattanayak">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iampattanayak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=F1F1F1&hide=jupyter%20notebook" alt="Top Languages" height="160" />
   </a>
-</p>
+  <br />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iampattanayak&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF5722&currStreakLabel=58A6FF" alt="Akash's Streak" />
+</div>
 
 ---
 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=Build.%20Ship.%20Learn.%20Repeat.&fontAlignY=50" />
-</p>
+<div align="center">
+  <i>Let's build something impactful together.</i><br>
+  <a href="https://linkedin.com/in/akashpattanayak"><b>Connect on LinkedIn</b></a>
+</div>
 
 
 ---
